@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9882149e-306c-450d-84e6-b7ed499b5940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaLambdaInternals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-Lambda and Anonymous Classes(I).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-Lambda and Anonymous Classes(II).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-Lambda and Collections.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-Streams API(I).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-Streams API(II).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-Stream Pipelines.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-Stream Performance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/2-AnonymousClass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/2-Lambda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/JCF_Collection_Interfaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Java_stream_Interfaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Java_stream_pipeline_classes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.collect_parameter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.distinct.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.flatMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream.reduce_parameter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream_pipeline_Sink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream_pipeline_example.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/Stream_pipeline_naive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/WRONG_Java_stream_Interfaces.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_min_String.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_min_String_par.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_min_int.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_min_int_par.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_reduction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figures/perf_Stream_reduction_par.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/2-AnonymousClass.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/2-Lambda.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/JCF_Collection_Interfaces.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Java_stream_Interfaces.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Java_stream_pipeline_classes.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.collect_parameter.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.distinct.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.filter.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.flatMap.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.map.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream.reduce_parameter.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream_pipeline_Sink.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream_pipeline_example.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/Stream_pipeline_naive.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diaFiles/WRONG_Java_stream_Interfaces.dia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/src/lee/IntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/src/lee/ReductionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/src/lee/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/StreamBenchmark/src/lee/TimeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perf/Stream_performance.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="SECOND">
               <first_editor />
               <second_editor />
             </state>
@@ -83,7 +26,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-Lambda and Anonymous Classes(I).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2-Lambda and Anonymous Classes(II).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
               <first_editor />
               <second_editor />
             </state>
@@ -94,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/TODO.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -163,7 +116,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552317261140" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -191,17 +144,26 @@
       <option name="presentableId" value="Default" />
       <updated>1552317160507</updated>
       <workItem from="1552317162274" duration="127000" />
-      <workItem from="1552317986257" duration="161000" />
+      <workItem from="1552317986257" duration="332000" />
+      <workItem from="1554732934511" duration="470000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1552318262085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552318262085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288000" />
+    <option name="totallyTimeSpent" value="929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1215" height="775" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25410545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28034934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -218,7 +180,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970452" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5410628" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -234,18 +196,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/1-Lambda and Anonymous Classes(I).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-Lambda and Anonymous Classes(I).md">
+    <entry file="file://$PROJECT_DIR$/2-Lambda and Anonymous Classes(II).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
           <first_editor />
           <second_editor />
         </state>
@@ -254,8 +228,8 @@
     <entry file="file://$PROJECT_DIR$/TODO.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
